@@ -1,0 +1,74 @@
+
+        .x{
+            background-color: antiquewhite;
+            
+        }
+        .y{
+            background-color:lightpink;
+            
+        }
+        .z{
+            background-color: lightcyan;
+            
+        }
+       #x{
+        position: absolute;
+        left: 10%;
+       }
+       #y{
+        position: absolute;
+        left: 40%;
+       }
+       #z{
+        position: absolute;
+        left: 70%;
+       }
+    
+
+      p{
+        font-style: italic;
+        font-size: medium;
+        
+      }
+
+      table{
+        border-collapse: collapse;
+        position: absolute;
+        left: 40%;
+      }
+
+      table,th,td {
+        border: 2px solid black;
+        
+      }
+      input[type="button"] { 
+        width: 100%; 
+        padding: 20px 40px; 
+        background-color:ghostwhite; 
+        color: white; 
+        font-size: 24px; 
+        font-weight: bold; 
+        border: none; 
+        border-radius: 5px; 
+    } 
+      
+    input[type="text"] { 
+        padding: 20px 30px; 
+        font-size: 24px; 
+        font-weight: bold; 
+        border: none; 
+        border-radius: 5px; 
+        border: 2px solid black; 
+    } 
+
+    .signup1{
+        position: absolute;
+        left: 30%;
+
+    }
+
+   
+
+      
+
+    
